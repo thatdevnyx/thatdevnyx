@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thatdevnyx
+- I'm a self-learning javascript developer, now working on alt:V (a GTA 5 alternative multiplayer client). 
+- Currently working on the project Victim RPG
+- You can reach me on discord: N1X#2605
